@@ -26,5 +26,11 @@
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
     "clui": "^0.3.6"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-plugin-import": "^2.11.0"
   }
 }
